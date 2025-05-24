@@ -28,7 +28,7 @@
 ## 2. COLLAB Transaction
 
 - **PLUG fournit** :
-  - Effectue L'application (profile, sim, email, etc...)
+  - L'application (profile, sim, email, etc...)
 
 - **ROAD s’engage à** :
   - Effectuer la transaction
