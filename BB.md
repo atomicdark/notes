@@ -1,5 +1,5 @@
 
-# Transaction BestBuy – Résumé des Engagements
+# Transaction BestBuy ( 10-15K / Transaction ) – Résumé des Engagements
 
 ## Parties concernées :
 - **PLUG**
