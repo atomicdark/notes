@@ -28,17 +28,20 @@
 ## 2. COLLAB Transaction
 
 - **PLUG fournit** :
-  - L'application
-  - Après obtention du profit :
-    - **100 $** sont remis au **driver**
-    - **200–250 $** sont remis à l'**adresse de livraison**
-
-- **PLUG et ROAD** partagent ensuite **à parts égales** (50/50) le **profit net**, après déduction des charges communes (Taxes, etc..).
+  - Effectue L'application (profile, sim, email, etc...)
 
 - **ROAD s’engage à** :
   - Effectuer la transaction
+  - Financer Les pièces d'identité nécessaires
   - Gérer les charges du **driver** et du **striker**
   - **Sans percevoir de commission directe**
+
+- **PLUG et ROAD** partagent ensuite **à parts égales** (50/50) le **profit net**, après déduction des charges communes (Taxes et Marge deficitaire de revente).
+
+- Après obtention du profit **PLUG**:
+    - **100 $** Paie sa contribution au **driver**
+    - **200–250 $** Paie sa contribution à l'**adresse de livraison**
+
 
 ---
 
