@@ -36,7 +36,6 @@
   - Effectuer la transaction
   - Financer Les pièces d'identité nécessaires
   - Gérer les charges du **driver** et du **striker**
-  - **Sans percevoir de commission directe**
 
 - **PLUG et ROAD** partagent ensuite **à parts égales** (50/50) le **profit net**, après déduction des charges communes (Taxes, Marge deficitaire de revente et address de livraison).
 
