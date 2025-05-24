@@ -21,7 +21,7 @@
 - **ROAD s’engage à** :
   - Effectuer la transaction
   - Gérer les charges du **driver** et du **striker**
-  - Percevoir une commission de **1 000 $** à la réception
+  - Percevoir une commission de **1 000 $**
 
 ---
 
