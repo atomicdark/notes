@@ -38,7 +38,7 @@
   - Gérer les charges du **driver** et du **striker**
   - **Sans percevoir de commission directe**
 
-- **PLUG et ROAD** partagent ensuite **à parts égales** (50/50) le **profit net**, après déduction des charges communes (Taxes et Marge deficitaire de revente).
+- **PLUG et ROAD** partagent ensuite **à parts égales** (50/50) le **profit net**, après déduction des charges communes (Taxes, Marge deficitaire de revente et address de livraison).
 
 - Après obtention du profit **PLUG**:
     - **Paie 100 $**  sa contribution au **driver**
