@@ -39,8 +39,5 @@
 
 - **PLUG et ROAD** partagent ensuite **à parts égales** (50/50) le **profit net**, après déduction des charges communes (Taxes, Marge deficitaire de revente et address de livraison).
 
-- Après obtention du profit **PLUG**:
-    - **Paie 200–250 $** sa contribution à l'**adresse de livraison**
-
 
 ---
