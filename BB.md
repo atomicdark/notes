@@ -27,7 +27,7 @@
 
 ## 2. COLLAB Transaction
 
-- **PLUG s'occupe** :
+- **PLUG s'occupe de** :
   - Completer L'application (profile, sim, email, etc...)
   - Completer les commandes en lignes
 
